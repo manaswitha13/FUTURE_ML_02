@@ -50,7 +50,3 @@ This project is a Machine Learning-based system that automatically classifies cu
   - Ticket Description
   - Ticket Type (Category)
   - Ticket Priority
-
----
-
-## 📁 Project Structure
